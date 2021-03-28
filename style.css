@@ -1,0 +1,27 @@
+body {
+    background-color: paleturquoise;
+    display: flex;
+}
+
+
+
+.weather-container {
+    display: block;
+    text-align: center;
+    width: 100%;
+    align-self: center;
+}
+
+.weather {
+    font-size: 40px;
+    margin: 0;
+    font-weight: bold;
+    
+
+}
+
+.temp {
+    font-size: 50px;
+    margin: 0;
+    font-weight: bold;
+}
